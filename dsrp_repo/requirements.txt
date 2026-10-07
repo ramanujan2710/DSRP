@@ -1,0 +1,13 @@
+scanpy
+scvi-tools
+scikit-learn
+scipy
+anndata
+leidenalg
+igraph
+torch
+numpy
+pandas
+matplotlib
+seaborn
+requests
